@@ -9,4 +9,3 @@ Important characteristics:
    A carefully selected collection of pictures of various potato plants with disease labels attached.
 5. Training: Easily understood and repeatable code that includes augmentation and preprocessing of data for model training.
 6. Inference: Use the trained model to make inferences on fresh photos of potato plants in real-time or in batches.
-# Potato-Plant-leaf-Diesease-Classification
